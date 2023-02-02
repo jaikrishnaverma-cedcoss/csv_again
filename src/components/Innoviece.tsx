@@ -38,8 +38,9 @@ const Innoviece = ({ customer_id }: { customer_id: number }) => {
     );
 
   return (
-    <>
+    <> 
       <div className="border border-danger d-flex flex-column p-3 rounded">
+        
         <section className="w-100 d-flex justify-content-between align-items-center my-1">
           <div className="col-6">
             <p className="fs-2 fw-bolder">#jai</p>
