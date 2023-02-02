@@ -37,7 +37,6 @@ const Innoviece = ({ customer_id }: { customer_id: number }) => {
       </div>
     );
 
-    console.log('details',details)
   return (
     <>
       <div className="border border-danger d-flex flex-column p-3 rounded">
